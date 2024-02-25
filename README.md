@@ -1,4 +1,4 @@
-# CIT-5910-UPenn-Fall-2022
+# Introduction to Software Development
 Assignments of CIT 5910 for Fall 2022
 
 I have described a few interesting projects below.
